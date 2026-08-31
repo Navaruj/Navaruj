@@ -4,7 +4,7 @@
 
 I focus on end-to-end quality for transaction and Fraud Monitoring systems, validating business rules across APIs, MQ messaging, SQL/database checks, and ETL data flows.
 
-My strongest background is senior manual and integration testing. I am also building practical test automation skills with Postman and Robot Framework using Browser Library and Playwright.
+My strongest background is senior manual and integration testing. I am also building practical test automation skills with Postman and Robot Framework using Browser Library.
 
 ## Core strengths
 
@@ -12,7 +12,7 @@ My strongest background is senior manual and integration testing. I am also buil
 - Fraud Monitoring and transaction business-rule validation
 - API, MQ, SQL/database, and ETL/data validation
 - Test scenario design, defect analysis, and test evidence
-- Growing automation skills: Postman, Robot Framework, Browser Library, Playwright, and GitHub Actions
+- Growing automation skills: Postman, Robot Framework, Browser Library, and GitHub Actions
 
 ## Featured QA projects
 
