@@ -19,7 +19,7 @@ My strongest background is senior manual and integration testing. I am also buil
 | Project | What it demonstrates |
 | --- | --- |
 | [Postman API Testing Portfolio](https://github.com/Navaruj/postman-api-testing-portfolio) | Swagger Petstore lifecycle with 7 requests and 24/24 assertions passed locally |
-| [SauceDemo Robot Framework Automation](https://github.com/Navaruj/saucedemo-robot-framework-automation) | 12 UI tests using Robot Framework, Browser Library, and Playwright, with passing CI and test artifacts |
+| [SauceDemo Robot Framework Automation](https://github.com/Navaruj/saucedemo-robot-framework-automation) | 12 UI tests using Robot Framework and Browser Library, with passing CI and downloadable test artifacts |
 | [STPB Robot Framework Automation](https://github.com/Navaruj/stpb-robot-framework-automation) | 16 UI tests; 15 non-data-creating cases run in headless GitHub Actions |
 
 ## How I approach quality
